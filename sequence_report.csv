@@ -1,0 +1,4 @@
+Sequence_Name,Length,GC_Percent,Invalid_Characters,Status
+Sequence_1,20,45.0,,VALID
+Sequence_2,17,58.82,X,INVALID - Unexpected characters
+Sequence_3,12,0.0,,VALID
