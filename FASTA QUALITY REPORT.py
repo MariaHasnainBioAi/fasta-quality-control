@@ -4,7 +4,7 @@ import csv
 
 # Find the FASTA file in the same folder
 folder = Path(__file__).resolve().parent
-fasta_file = folder / "sample_data.fasta.txt"
+fasta_file = folder / "sample_data.fasta"
 
 if not fasta_file.exists():
     print("ERROR: FASTA file not found.")
